@@ -1,0 +1,22 @@
+=== Bag-of-Words ===
+Accuracy: 0.8786
+              precision    recall  f1-score   support
+
+           0       0.88      0.87      0.88      4961
+           1       0.88      0.88      0.88      5039
+
+    accuracy                           0.88     10000
+   macro avg       0.88      0.88      0.88     10000
+weighted avg       0.88      0.88      0.88     10000
+
+=== TF-IDF ===
+Accuracy: 0.8947
+              precision    recall  f1-score   support
+
+           0       0.90      0.88      0.89      4961
+           1       0.89      0.91      0.90      5039
+
+    accuracy                           0.89     10000
+   macro avg       0.89      0.89      0.89     10000
+weighted avg       0.89      0.89      0.89     10000
+
