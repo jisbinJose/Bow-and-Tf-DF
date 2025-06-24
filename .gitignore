@@ -1,21 +1,18 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
-.Python
-
-
-# Database files
-*.db
-*.sqlite
-
-# Log files
+*.egg-info/
 *.log
+*.sqlite
+*.env
 
-# Virtual environment
+# Virtual Environments
 venv/
+.env/
+.venv/
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
